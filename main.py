@@ -1,8 +1,8 @@
 import math
 import matplotlib.pyplot as plt
 plt.rcParams.update({'font.size': 8})
-plt.rcParams['axes.facecolor'] = 'k'
-plt.rcParams['savefig.facecolor'] = 'k'
+plt.rcParams['axes.facecolor'] = 'w'
+plt.rcParams['savefig.facecolor'] = 'w'
 import numpy as np
 
 def newNumber():
